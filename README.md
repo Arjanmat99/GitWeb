@@ -8,7 +8,7 @@ Step 1: Fork this repository
 
 Step 2: Create your website, in your fork, [using our guide](https://guide.wip.com)
 
-Step 3: Create a `Pull Request`, on the [Offical GitWeb Sites repository](https://github.com/MrCrayfish/GitWeb-Sites)
+Step 3: Create a `Pull Request`, on the offical [GitWeb Sites](https://github.com/MrCrayfish/GitWeb-Sites) repository
 
 Step 4: In your new Pull Request follow the template to documents your site/sites
 
