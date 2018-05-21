@@ -2,7 +2,7 @@
 -
 Source code for GitWeb Sites in [MrCrayfish's Device Mod](https://minecraft.curseforge.com/projects/mrcrayfishs-device-mod)
 
-#How do I submit a site?
+# How do I submit a site?
 
 Step 1: Fork this repository
 
