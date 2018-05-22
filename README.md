@@ -3,8 +3,6 @@ Source code for GitWeb Sites in [MrCrayfish's Device Mod](https://minecraft.curs
 
 GitWeb is a web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.
 
-### What can be done with GitWeb?
-
 ### How do I submit a site?
 
 Step 1: Fork this repository
