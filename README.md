@@ -7,7 +7,7 @@ GitWeb is a web browser powered by GitHub. It is community driven, which means w
 
 1. Fork this repository
 
-2. Create your website, in your fork, [using our guide](https://guide.wip.com)
+2. Create your website, in your fork, [using our guide](https://github.com/Griffdith/GitWeb/blob/master/GitWeb%20Guide.md)
 
 3. Create a `Pull Request`, on the offical [GitWeb Sites](https://github.com/MrCrayfish/GitWeb-Sites) repository
 
