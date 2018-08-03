@@ -1,4 +1,7 @@
 # :globe_with_meridians: GitWeb Sites
+
+>Do not fork this repo as it's just for my testing
+
 Source code for GitWeb Sites in [MrCrayfish's Device Mod](https://minecraft.curseforge.com/projects/mrcrayfishs-device-mod).
 
 GitWeb is a web browser powered by GitHub. It is community driven, which means the websites (*call indexes from here on out*) you browse are created by other players.
